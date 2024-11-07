@@ -1,0 +1,18 @@
+name: update stock.txt
+
+on:
+  push:
+    branches: ["main"]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: update stock.txt
+        run: ./scripts/compute_stock.sh stocktaking.csv > stock.txt
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
