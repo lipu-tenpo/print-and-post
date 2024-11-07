@@ -16,3 +16,5 @@ jobs:
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: updated stock.txt with latest numbers
