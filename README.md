@@ -2,4 +2,4 @@
 
 information about lipu tenpo's print + post
 
-currently empty...
+stock: [stocktaking.csv](./stocktaking.csv) & [stock.txt](./stock.txt)
