@@ -1,4 +1,4 @@
-envelopes: 22
+envelopes: 62
 labels: 16
 nanpa-jaki: 7
 nanpa-jan: 68
