@@ -1,7 +1,7 @@
-envelopes: 62
+envelopes: 24
 labels: 16
 nanpa-jaki: 7
-nanpa-jan: 68
+nanpa-jan: 30
 nanpa-kalama: 6
 nanpa-kulupu: 1
 nanpa-lawa: 107
@@ -10,6 +10,6 @@ nanpa-linja: 28
 nanpa-moku: 1
 nanpa-sewi: 2
 stamps-1st: 0
-stamps-2nd: 8
-stamps-international: 38
+stamps-2nd: -30
+stamps-international: 4
 stickers: 15
