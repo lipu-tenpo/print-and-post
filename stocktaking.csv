@@ -84,21 +84,22 @@ Date ordered, IN/OUT (of alifeee), Name, From/To, SKU, Quantity, Total Price (£
 2024-09-27,OUT,nanpa lawa p+p,patreon members,stamps-2nd,6,,,
 2024-09-27,OUT,nanpa lawa p+p,patreon members,labels,3,,,
 2024-09-27,OUT,postage for jan Nikola,alifeee,null,1,7.05,7.05,-172.29
-2024-10-11,IN,invoice money,alifeee,null,,168.99,,-3.30
+2024-10-11,IN,invoice money,alifeee,null,,-168.99,,-3.30
 2024-10-12,OUT,alifeee,stamps,stamps-2nd,2,,,
 2024-10-21,OUT,alifeee,issues for event,nanpa-lawa,4,,,
 2024-10-28,IN,alifeee,nanpa jan p+p,nanpa-jan,68,47.49,0.95,-50.79
-2025-11-07,IN,alifeee,stamps for nanpa jan,stamps-international,33,92.40,2.80,-143.19
-2025-11-07,IN,alifeee,stamps for nanpa jan,stamps-2nd,8,6.80,0.85,-149.99
-2025-11-08,IN,alifeee,envelopes,envelopes,40,5.00,0.125,-154.99
-2025-11-09,OUT,alifeee,nanpa jan p+p,nanpa-jan,38,,,
-2025-11-09,OUT,alifeee,nanpa jan p+p,envelopes,38,,,
-2025-11-09,OUT,alifeee,nanpa jan p+p,stamps-international,32,,,
-2025-11-09,OUT,alifeee,nanpa jan p+p,stamps-2nd,6,,,
-2025-11-09,OUT,alifeee,jan Eli learning club,nanpa-jan,5,,,
-2025-11-09,OUT,alifeee,jan Eli learning club,nanpa-lawa,10,,,
-2025-11-09,OUT,alifeee,jan Eli learning club,nanpa-linja,5,,,
-2025-11-09,OUT,alifeee,jan Eli learning club,nanpa-lili,20,,,
-2025-11-09,OUT,alifeee,jan Eli learning club,stickers,6,,,
-2025-11-09,OUT,alifeee,jan Eli learning club postage,null,,5.15,,-160.14
-2025-11-09,OUT,alifeee,extra international postage,null,,1.80,,-161.94
+2024-11-07,IN,alifeee,stamps for nanpa jan,stamps-international,33,92.40,2.80,-143.19
+2024-11-07,IN,alifeee,stamps for nanpa jan,stamps-2nd,8,6.80,0.85,-149.99
+2024-11-08,IN,alifeee,envelopes,envelopes,40,5.00,0.125,-154.99
+2024-11-09,OUT,alifeee,nanpa jan p+p,nanpa-jan,38,,,
+2024-11-09,OUT,alifeee,nanpa jan p+p,envelopes,38,,,
+2024-11-09,OUT,alifeee,nanpa jan p+p,stamps-international,32,,,
+2024-11-09,OUT,alifeee,nanpa jan p+p,stamps-2nd,6,,,
+2024-11-09,OUT,alifeee,jan Eli learning club,nanpa-jan,5,,,
+2024-11-09,OUT,alifeee,jan Eli learning club,nanpa-lawa,10,,,
+2024-11-09,OUT,alifeee,jan Eli learning club,nanpa-linja,5,,,
+2024-11-09,OUT,alifeee,jan Eli learning club,nanpa-lili,20,,,
+2024-11-09,OUT,alifeee,jan Eli learning club,stickers,6,,,
+2024-11-09,OUT,alifeee,jan Eli learning club postage,null,,5.15,,-160.14
+2024-11-09,OUT,alifeee,extra international postage,null,,1.80,,-161.94
+2024-12-09,IN,alifeee,invoice money,null,,-49.68,,-112.26
