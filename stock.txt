@@ -7,7 +7,7 @@ nanpa-kulupu: 1
 nanpa-lawa: 97
 nanpa-lili: 330
 nanpa-linja: 23
-nanpa-loje: 60
+nanpa-loje: 76
 nanpa-moku: 1
 nanpa-sewi: 2
 stamps-1st: 0
