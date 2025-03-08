@@ -2,6 +2,7 @@ envelopes: 158
 labels: 11
 nanpa-jaki: 7
 nanpa-jan: 17
+nanpa-kala: 60
 nanpa-kalama: 6
 nanpa-kulupu: 1
 nanpa-lawa: 82
