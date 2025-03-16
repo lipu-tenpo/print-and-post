@@ -12,6 +12,6 @@ nanpa-loje: 22
 nanpa-moku: 1
 nanpa-sewi: 2
 stamps-1st: 0
-stamps-2nd: 6
-stamps-international: 1
+stamps-2nd: 14
+stamps-international: 43
 stickers: 3
