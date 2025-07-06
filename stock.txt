@@ -4,6 +4,7 @@ nanpa-jaki: 7
 nanpa-jan: 17
 nanpa-kala: 15
 nanpa-kalama: 6
+nanpa-kokosila: 60
 nanpa-kulupu: 1
 nanpa-lawa: 82
 nanpa-lili: 298
@@ -11,6 +12,7 @@ nanpa-linja: 15
 nanpa-loje: 22
 nanpa-moku: 1
 nanpa-sewi: 2
+nanpa-supa: 60
 stamps-1st: 0
 stamps-2nd: 9
 stamps-international: 1
