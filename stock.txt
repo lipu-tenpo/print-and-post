@@ -15,5 +15,5 @@ nanpa-sewi: 2
 nanpa-supa: 15
 stamps-1st: 0
 stamps-2nd: 3
-stamps-international: 38
+stamps-international: 0
 stickers: 3
