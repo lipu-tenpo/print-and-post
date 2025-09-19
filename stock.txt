@@ -11,6 +11,7 @@ nanpa-lili: 222
 nanpa-linja: 15
 nanpa-loje: 12
 nanpa-moku: 1
+nanpa-pilin: 60
 nanpa-sewi: 2
 nanpa-supa: 5
 stamps-1st: 0
