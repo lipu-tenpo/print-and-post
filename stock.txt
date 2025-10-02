@@ -1,5 +1,5 @@
 envelopes: 61
-labels: 224
+labels: 275
 nanpa-jaki: 7
 nanpa-jan: 7
 nanpa-kala: 5
