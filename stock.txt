@@ -10,6 +10,7 @@ nanpa-lawa: 42
 nanpa-lili: 222
 nanpa-linja: 15
 nanpa-loje: 12
+nanpa-lon: 60
 nanpa-moku: 1
 nanpa-pilin: 68
 nanpa-sewi: 2
