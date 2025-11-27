@@ -168,4 +168,13 @@ Date ordered, IN/OUT (of alifeee), Name, From/To, SKU, Quantity, Total Price (£
 2025-10-03,OUT,pilin p+p,alifeee,labels,3,,,
 2025-10-05,OUT,nanpa pilin p+p organisational fee,alifeee,null,,30,,-260.39
 2025-10-09,IN,invoice money,alifeee,null,,-255.31,,-5.08
-2025-11-15,IN,nanpa lon prints,alifeee,nanpa-lon,60,52.75,,-57.83
+2025-11-15,IN,nanpa lon prints,alifeee,nanpa-lon,62,52.75,0.85,-57.83
+2025-11-24,IN,lon p+p prep,alifeee,stamps-international,43,146.20,3.40,-204.03
+2025-11-24,IN,lon p+p prep,alifeee,stamps-2nd,8,6.96,0.87,-210.99
+2025-11-27,OUT,lon p+p,alifeee,labels,3,,,
+2025-11-27,OUT,lon p+p,alifeee,stamps-international,43,,,
+2025-11-27,OUT,lon p+p,alifeee,stamps-2nd,6,,,
+2025-11-27,OUT,lon p+p,alifeee,nanpa-lon,49,,,
+2025-11-27,OUT,lon p+p,alifeee,nanpa-pilin,1,,,
+2025-11-27,OUT,lon p+p,alifeee,envelopes,49,,,
+2025-11-27,OUT,lon p+p organisational fee,alifeee,null,,30,,-240.99
