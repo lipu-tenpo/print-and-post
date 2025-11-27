@@ -158,10 +158,14 @@ Date ordered, IN/OUT (of alifeee), Name, From/To, SKU, Quantity, Total Price (£
 2025-07-18,OUT,postage for tenpo kulupu Elopa issues,alifeee,null,,17.94,,-285.85
 2025-08-04,IN,invoice money,alifeee,null,,-279.65,,-6.20
 2025-09-19,IN,nanpa pilin prints,alifeee,nanpa-pilin,68,50.64,0.74,-56.84
-2025-09-27,IN,address labels,alifeee,labels,99,22.99,0.23,-79.83
-2025-09-27,IN,envelopes,alifeee,labels,120,6.00,0.05,-85.83
-2025-09-27,IN,stamps-international,alifeee,labels,43,137.60,3.20,-223.43
-2025-09-27,IN,stamps-2nd,alifeee,labels,8,6.96,0.87,-230.39
+2025-09-27,IN,pilin p+p prep,alifeee,labels,99,22.99,0.23,-79.83
+2025-09-27,IN,pilin p+p prep,alifeee,envelopes,120,6.00,0.05,-85.83
+2025-09-27,IN,pilin p+p prep,alifeee,stamps-international,43,137.60,3.20,-223.43
+2025-09-27,IN,pilin p+p prep,alifeee,stamps-2nd,8,6.96,0.87,-230.39
+2025-10-03,OUT,pilin p+p,alifeee,stamps-2nd,6,,,
+2025-10-03,OUT,pilin p+p,alifeee,stamps-international,43,,,
+2025-10-03,OUT,pilin p+p,alifeee,envelopes,49,,,
+2025-10-03,OUT,pilin p+p,alifeee,labels,3,,,
 2025-10-05,OUT,nanpa pilin p+p organisational fee,alifeee,null,,30,,-260.39
 2025-10-09,IN,invoice money,alifeee,null,,-255.31,,-5.08
 2025-11-15,IN,nanpa lon prints,alifeee,nanpa-lon,60,52.75,,-57.83
