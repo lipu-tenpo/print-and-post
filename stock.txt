@@ -7,6 +7,7 @@ nanpa-kalama: 6
 nanpa-kokosila: 4
 nanpa-kulupu: 1
 nanpa-lawa: 42
+nanpa-len: 60
 nanpa-lili: 222
 nanpa-linja: 15
 nanpa-loje: 12
