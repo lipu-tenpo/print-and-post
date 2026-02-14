@@ -17,6 +17,6 @@ nanpa-pilin: 67
 nanpa-sewi: 2
 nanpa-supa: 5
 stamps-1st: 0
-stamps-2nd: 7
-stamps-international: 0
+stamps-2nd: 13
+stamps-international: 44
 stickers: 3
