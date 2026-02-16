@@ -182,3 +182,9 @@ Date ordered, IN/OUT (of alifeee), Name, From/To, SKU, Quantity, Total Price (£
 2026-02-09,IN,nanpa len prints,alifeee,nanpa-len,60,53.75,0.90,-58.43
 2026-02-13,IN,len p+p prep,alifeee,stamps-international,44,149.60,3.40,-208.03
 2026-02-13,IN,len p+p prep,alifeee,stamps-2nd,6,5.22,0.87,-213.25
+2026-02-15,OUT,len p+p,alifeee,labels,4,,,
+2026-02-15,OUT,len p+p,alifeee,stamps-international,44,,,
+2026-02-15,OUT,len p+p,alifeee,stamps-2nd,6,,,
+2026-02-15,OUT,len p+p,alifeee,nanpa-len,50,,,
+2026-02-15,OUT,len p+p,alifeee,envelopes,50,,,
+2026-02-15,OUT,len p+p organisational fee,alifeee,null,,30,,-243.25
