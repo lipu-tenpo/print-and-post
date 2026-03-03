@@ -1,3 +1,4 @@
+with alifeee:
 envelopes: 33
 labels: 94
 nanpa-jaki: 7
@@ -16,7 +17,8 @@ nanpa-moku: 1
 nanpa-pilin: 67
 nanpa-sewi: 2
 nanpa-supa: 5
-stamps-1st: 0
 stamps-2nd: 7
-stamps-international: 0
 stickers: 3
+
+
+other places (seen: )

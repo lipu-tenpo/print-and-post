@@ -19,22 +19,47 @@ fi
 
 echo "${data}" | awk -F ',' '{
     inorout = $2;
+    fromto = $4;
     sku = $5;
     quantity = $6;
     printf "%s of %s %s\n", quantity, sku, inorout > "/dev/stderr";
 
     if (sku == "null") {next}
 
-    if (inorout == "IN") {
-    stock[sku] += quantity;
-    } else if (inorout == "OUT") {
-    stock[sku] -= quantity;
+    if (fromto == "alifeee") {
+      if (inorout == "IN") {
+        alifeeestock[sku] += quantity;
+      } else if (inorout == "OUT") {
+        alifeeestock[sku] -= quantity;
+      } else {
+        exit "wrong in/out";
+      }
     } else {
-    exit "wrong in/out";
+      otherplaces[fromto] = 1
+      if (inorout == "IN") {
+        otherstock[sku] += quantity;
+      } else if (inorout == "OUT") {
+        otherstock[sku] -= quantity;
+      } else {
+        exit "wrong in/out";
+      }
     }
 } END {
-    n = asorti(stock, keyssorted);
+    printf "with alifeee:\n"
+    n = asorti(alifeeestock, keyssorted);
     for (s in keyssorted) {
-    printf "%s: %s\n", keyssorted[s], stock[keyssorted[s]]
+      if (alifeeestock[keyssorted[s]] != 0) {
+        printf "%s: %s\n", keyssorted[s], alifeeestock[keyssorted[s]]
+      }
+    }
+
+    printf "\n\nother places (seen: "
+    for (p in otherplaces) {printf "%s%s", fs, p; fs=", "}
+    printf ")\n"
+    n2 = asorti(otherstock, keyssorted);
+    for (s in keyssorted) {
+      if (otherstock[keyssorted[s]] != 0) {
+        printf "%s: %s\n", keyssorted[s], otherstock[keyssorted[s]]
+      }
     }
 }'
