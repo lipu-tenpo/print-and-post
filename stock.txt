@@ -1,24 +1,27 @@
 with alifeee:
 envelopes: 33
 labels: 94
+nanpa-lawa: 1
+nanpa-len: 3
+nanpa-loje: 1
+stamps-2nd: 7
+stickers: 3
+
+
+other places (seen: alonola)
 nanpa-jaki: 7
 nanpa-jan: 7
 nanpa-kala: 5
 nanpa-kalama: 6
 nanpa-kokosila: 4
 nanpa-kulupu: 1
-nanpa-lawa: 42
-nanpa-len: 10
+nanpa-lawa: 41
+nanpa-len: 7
 nanpa-lili: 222
 nanpa-linja: 15
-nanpa-loje: 12
+nanpa-loje: 11
 nanpa-lon: 13
 nanpa-moku: 1
 nanpa-pilin: 67
 nanpa-sewi: 2
 nanpa-supa: 5
-stamps-2nd: 7
-stickers: 3
-
-
-other places (seen: )
