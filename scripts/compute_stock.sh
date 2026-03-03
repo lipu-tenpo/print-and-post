@@ -53,7 +53,7 @@ echo "${data}" | awk -F ',' '{
       }
     }
 
-    printf "\n\nother places (seen: "
+    printf "\n\nother places (including: "
     for (p in otherplaces) {printf "%s%s", fs, p; fs=", "}
     printf ")\n"
     n2 = asorti(otherstock, keyssorted);
