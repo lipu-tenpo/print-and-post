@@ -1,125 +1,125 @@
 Date ordered, IN/OUT (of alifeee), Name, From/To, SKU, Quantity, Total Price (£), Unit Price (£), alifeee's bank (£)
-2024-01-01,IN,historical prints,,nanpa-moku,1,,,
-2024-01-01,IN,historical prints,,nanpa-kulupu,1,,,
-2024-01-14,IN,test prints,mixam,nanpa-sewi,4,18.49, 4.62,-18.49
-2024-01-14,IN,Envelopes,Post office,envelopes,10,4.00,0.40,-22.49
-2024-01-14,IN,International stamps,Post office,stamps-international,4,8.80,2.20,-31.29
-2024-01-14,OUT,nanpa sewi,jan Alonola,nanpa-sewi,1,,,
-2024-01-14,OUT,international stamps,jan Alonola,stamps-international,1,,,
-2024-01-19,OUT,nanpa sewi,jan Kasape,nanpa-sewi,1,,,
-2024-01-19,OUT,international stamps,jan Kasape,stamps-international,1,,,
-2024-02-22,IN,Envelopes,Sainsburys,envelopes,50,2.50,0.05,-33.79
-2024-03-24,IN,£2.20 international stamps,Post Office,stamps-international,25,55.00,2.20,-88.79
-2024-04-01,IN,“50” Zines,Mixam,nanpa-kalama,66,35.49,0.54,-124.28
-2024-04-01,IN,“50” Art Prints (nanpa lili),Mixam,nanpa-lili,56,21.99,0.39,-146.27
-2024-04-05,IN,25 sheets of 2x8 printing labels,Ryman’s,labels,25,11.99,0.48,-158.26
-2024-04-07,IN,First class stamps,Post Office,stamps-1st,4,5.40,1.35,-163.66
-2024-04-07,IN,International stamps,Post Office,stamps-international,6,15.00,2.50,
-2024-04-07,OUT,nanpa kalama !,Patreon members,nanpa-kalama,31,,,
-2024-04-07,OUT,nanpa lili (bonus) !,Patreon members,nanpa-lili,31,,,
-2024-04-07,OUT,envelopes,Patreon members,envelopes,31,,,
-2024-04-07,OUT,printed labels,Patreon members,labels,2,,,
-2024-04-07,OUT,first class stamps (to UK),Patreon members,stamps-1st,3,,,
-2024-04-07,OUT,international stamps,Patreon members,stamps-international,28,,,
-2024-04-07,OUT,nanpa kalama,jan Alipi,nanpa-kalama,1,,,
-2024-04-07,OUT,nanpa lili,jan Alipi,nanpa-lili,1,,,
-2024-04-09,OUT,nanpa kalama,jan Eli,nanpa-kalama,1,,,
-2024-04-09,OUT,nanpa lili,jan Eli,nanpa-lili,1,,,
-2024-04-09,OUT,stamp,jan Eli,stamps-international,1,,,
-2024-04-24,OUT,nanpa kalama,jan Alipi,nanpa-kalama,2,,,
-2024-04-24,OUT,nanpa lili,jan Alipi,nanpa-lili,4,,,
-2024-04-24,OUT,int. stamps,jan Alipi,stamps-international,1,,,
-2024-04-24,OUT,envelope,jan Alipi,envelopes,1,,,
-2024-04-24,IN,nanpa lili reprints,jan Alipi,nanpa-lili,54,,,
-2024-05-23,OUT,envelope,jan Alipi,envelopes,1,,,
-2024-05-24,IN,int. stamps,jan Alipi,stamps-international,30,75,2.5,-238.66
-2024-05-24,IN,uk stamps,jan Alipi,stamps-2nd,16,13.60,0.85,-252.26
-2024-05-24,IN,nanpa jaki prints,jan Alipi,nanpa-jaki,61,46.99,0.77,-299.25
-2024-05-27,OUT,nanpa jaki prints,patrons,nanpa-jaki,31,,,
-2024-05-27,OUT,nanpa kalama leftovers,patrons,nanpa-kalama,2,,,
-2024-05-27,OUT,nanpa jaki envelopes,patrons,envelopes,31,,,
-2024-05-27,OUT,nanpa jaki labels,patrons,labels,2,,,
-2024-05-27,OUT,nanpa lili prints,patrons,nanpa-lili,34,,,
-2024-05-27,OUT,nanpa jaki stamps 1,patrons,stamps-1st,1,,,
-2024-05-27,OUT,nanpa jaki stamps 2,patrons,stamps-2nd,3,,,
-2024-05-27,OUT,nanpa jaki stamps 3,patrons,stamps-international,27,,,
-2024-05-27,IN,extra stamps,Ke Tami,stamps-international,2,3 ,1.5,-302.25
-2024-05-27,OUT,extra stamps,Ke Tami,stamps-international,2,,,
-2024-05-27,IN,envelopes,Sainsbury's,envelopes,100,5,0.08,-307.25
-2024-05-29,OUT,issues for EMF Camp,jan Alipi,nanpa-kalama,1,,,
-2024-05-29,OUT,issues for EMF Camp,jan Alipi,nanpa-jaki,1,,,
-2024-05-29,OUT,issues for EMF Camp,jan Alipi,nanpa-lili,1,,,
-2024-06-11,OUT,issues for blinry,jan Alipi,nanpa-lili,1,,,
-2024-06-11,OUT,issues for blinry,jan Alipi,nanpa-kalama,1,,,
-2024-06-11,OUT,issues for blinry,jan Alipi,nanpa-jaki,1,,,
-2024-06-11,OUT,issues for blinry,jan Alipi,envelopes,1,,,
-2024-06-11,OUT,issues for blinry,jan Alipi,stamps-international,1,,,
-2024-06-20,IN,vinyl stickers,jan Alipi,stickers,50,29.00,0.58,-336.25
-2024-06-28,OUT,issues for Europe meetup,jan Ke Tami,nanpa-kalama,20,,,
-2024-06-28,OUT,issues for Europe meetup,jan Ke Tami,nanpa-lili,20,,,
-2024-06-28,OUT,issues for Europe meetup,jan Ke Tami,nanpa-jaki,20,,,
-2024-06-28,OUT,postage for Europe meetup issues,jan Ke Tami,null,0,18.10,18.10,-354.35
-2024-07-15,OUT,issues for jan Mika,jan Mika,nanpa-jaki,1,,,
-2024-07-15,OUT,issues for jan Mika,jan Mika,nanpa-kalama,1,,,
-2024-07-15,OUT,issues for jan Mika,jan Mika,nanpa-lili,3,,,
-2024-07-15,OUT,issues for jan Mika,jan Mika,envelopes,1,,,
-2024-07-15,OUT,issues for jan Mika,jan Mika,stickers,1,,,
-2024-07-15,OUT,jan Alipi stealing envelopes,jan Alipi,envelopes,2,,,
-2024-07-18,IN,nanpa linja prints,mixam,nanpa-linja,62,47.49,0.76,-401.84
-2024-07-19,IN,invoice money,lipu tenpo e.V.,null,,-347.98,,-53.86
-2024-07-22,IN,international stamps,post office,stamps-international,28,70,2.50,-123.86
-2024-07-22,OUT,nanpa linja p+p,patreon members,nanpa-linja,34,,,
-2024-07-22,OUT,nanpa linja p+p,patreon members,envelopes,34,,,
-2024-07-22,OUT,nanpa linja p+p,patreon members,stamps-international,29,,,
-2024-07-22,OUT,nanpa linja p+p,patreon members,stamps-2nd,5,,,
-2024-07-22,OUT,nanpa linja p+p,patreon members,stickers,34,,,
-2024-07-22,OUT,nanpa linja p+p,patreon members,labels,2,,,
-2024-09-15,IN,nanpa lawa prints,alifeee,nanpa-lawa,152,56.34,0.37,-180.20
+2024-01-01,IN,historical prints,alifeee,nanpa-moku,1,,,
+2024-01-01,IN,historical prints,alifeee,nanpa-kulupu,1,,,
+2024-01-14,IN,test prints,alifeee,nanpa-sewi,4,18.49,4.62,-18.49
+2024-01-14,IN,Envelopes,alifeee,envelopes,10,4,0.4,-22.49
+2024-01-14,IN,International stamps,alifeee,stamps-international,4,8.8,2.2,-31.29
+2024-01-14,OUT,nanpa sewi,alifeee,nanpa-sewi,1,,,
+2024-01-14,OUT,international stamps,alifeee,stamps-international,1,,,
+2024-01-19,OUT,nanpa sewi,alifeee,nanpa-sewi,1,,,
+2024-01-19,OUT,international stamps,alifeee,stamps-international,1,,,
+2024-02-22,IN,Envelopes,alifeee,envelopes,50,2.5,0.05,-33.79
+2024-03-24,IN,£2.20 international stamps,alifeee,stamps-international,25,55,2.2,-88.79
+2024-04-01,IN,“50” Zines,alifeee,nanpa-kalama,66,35.49,0.54,-124.28
+2024-04-01,IN,“50” Art Prints (nanpa lili),alifeee,nanpa-lili,56,21.99,0.39,-146.27
+2024-04-05,IN,25 sheets of 2x8 printing labels,alifeee,labels,25,11.99,0.48,-158.26
+2024-04-07,IN,First class stamps,alifeee,stamps-1st,4,5.4,1.35,-163.66
+2024-04-07,IN,International stamps,alifeee,stamps-international,6,15,2.5,
+2024-04-07,OUT,nanpa kalama !,alifeee,nanpa-kalama,31,,,
+2024-04-07,OUT,nanpa lili (bonus) !,alifeee,nanpa-lili,31,,,
+2024-04-07,OUT,envelopes,alifeee,envelopes,31,,,
+2024-04-07,OUT,printed labels,alifeee,labels,2,,,
+2024-04-07,OUT,first class stamps (to UK),alifeee,stamps-1st,3,,,
+2024-04-07,OUT,international stamps,alifeee,stamps-international,28,,,
+2024-04-07,OUT,nanpa kalama,alifeee,nanpa-kalama,1,,,
+2024-04-07,OUT,nanpa lili,alifeee,nanpa-lili,1,,,
+2024-04-09,OUT,nanpa kalama,alifeee,nanpa-kalama,1,,,
+2024-04-09,OUT,nanpa lili,alifeee,nanpa-lili,1,,,
+2024-04-09,OUT,stamp,alifeee,stamps-international,1,,,
+2024-04-24,OUT,nanpa kalama,alifeee,nanpa-kalama,2,,,
+2024-04-24,OUT,nanpa lili,alifeee,nanpa-lili,4,,,
+2024-04-24,OUT,int. stamps,alifeee,stamps-international,1,,,
+2024-04-24,OUT,envelope,alifeee,envelopes,1,,,
+2024-04-24,IN,nanpa lili reprints,alifeee,nanpa-lili,54,,,
+2024-05-23,OUT,envelope,alifeee,envelopes,1,,,
+2024-05-24,IN,int. stamps,alifeee,stamps-international,30,75,2.5,-238.66
+2024-05-24,IN,uk stamps,alifeee,stamps-2nd,16,13.6,0.85,-252.26
+2024-05-24,IN,nanpa jaki prints,alifeee,nanpa-jaki,61,46.99,0.77,-299.25
+2024-05-27,OUT,nanpa jaki prints,alifeee,nanpa-jaki,31,,,
+2024-05-27,OUT,nanpa kalama leftovers,alifeee,nanpa-kalama,2,,,
+2024-05-27,OUT,nanpa jaki envelopes,alifeee,envelopes,31,,,
+2024-05-27,OUT,nanpa jaki labels,alifeee,labels,2,,,
+2024-05-27,OUT,nanpa lili prints,alifeee,nanpa-lili,34,,,
+2024-05-27,OUT,nanpa jaki stamps 1,alifeee,stamps-1st,1,,,
+2024-05-27,OUT,nanpa jaki stamps 2,alifeee,stamps-2nd,3,,,
+2024-05-27,OUT,nanpa jaki stamps 3,alifeee,stamps-international,27,,,
+2024-05-27,IN,extra stamps,alifeee,stamps-international,2,3,1.5,-302.25
+2024-05-27,OUT,extra stamps,alifeee,stamps-international,2,,,
+2024-05-27,IN,envelopes,alifeee,envelopes,100,5,0.08,-307.25
+2024-05-29,OUT,issues for EMF Camp,alifeee,nanpa-kalama,1,,,
+2024-05-29,OUT,issues for EMF Camp,alifeee,nanpa-jaki,1,,,
+2024-05-29,OUT,issues for EMF Camp,alifeee,nanpa-lili,1,,,
+2024-06-11,OUT,issues for blinry,alifeee,nanpa-lili,1,,,
+2024-06-11,OUT,issues for blinry,alifeee,nanpa-kalama,1,,,
+2024-06-11,OUT,issues for blinry,alifeee,nanpa-jaki,1,,,
+2024-06-11,OUT,issues for blinry,alifeee,envelopes,1,,,
+2024-06-11,OUT,issues for blinry,alifeee,stamps-international,1,,,
+2024-06-20,IN,vinyl stickers,alifeee,stickers,50,29,0.58,-336.25
+2024-06-28,OUT,issues for Europe meetup,alifeee,nanpa-kalama,20,,,
+2024-06-28,OUT,issues for Europe meetup,alifeee,nanpa-lili,20,,,
+2024-06-28,OUT,issues for Europe meetup,alifeee,nanpa-jaki,20,,,
+2024-06-28,OUT,postage for Europe meetup issues,alifeee,null,0,18.1,18.1,-354.35
+2024-07-15,OUT,issues for jan Mika,alifeee,nanpa-jaki,1,,,
+2024-07-15,OUT,issues for jan Mika,alifeee,nanpa-kalama,1,,,
+2024-07-15,OUT,issues for jan Mika,alifeee,nanpa-lili,3,,,
+2024-07-15,OUT,issues for jan Mika,alifeee,envelopes,1,,,
+2024-07-15,OUT,issues for jan Mika,alifeee,stickers,1,,,
+2024-07-15,OUT,jan Alipi stealing envelopes,alifeee,envelopes,2,,,
+2024-07-18,IN,nanpa linja prints,alifeee,nanpa-linja,62,47.49,0.76,-401.84
+2024-07-19,IN,invoice money,alifeee,null,,-347.98,,-53.86
+2024-07-22,IN,international stamps,alifeee,stamps-international,28,70,2.5,-123.86
+2024-07-22,OUT,nanpa linja p+p,alifeee,nanpa-linja,34,,,
+2024-07-22,OUT,nanpa linja p+p,alifeee,envelopes,34,,,
+2024-07-22,OUT,nanpa linja p+p,alifeee,stamps-international,29,,,
+2024-07-22,OUT,nanpa linja p+p,alifeee,stamps-2nd,5,,,
+2024-07-22,OUT,nanpa linja p+p,alifeee,stickers,34,,,
+2024-07-22,OUT,nanpa linja p+p,alifeee,labels,2,,,
+2024-09-15,IN,nanpa lawa prints,alifeee,nanpa-lawa,152,56.34,0.37,-180.2
 2024-09-15,IN,nanpa lili prints,alifeee,nanpa-lili,336,31.35,0.09,-211.55
-2024-09-19,IN,invoice money,lipu tenpo e.V.,null,,-121.31,,-90.24
-2024-09-20,IN,international stamps,post office,stamps-international,30,75,2.50,-165.24
-2024-09-27,OUT,nanpa lawa p+p,patreon members,nanpa-lawa,41,,,
-2024-09-27,OUT,nanpa lawa p+p,patreon members,envelopes,36,,,
-2024-09-27,OUT,nanpa lawa p+p,patreon members,stamps-international,29,,,
-2024-09-27,OUT,nanpa lawa p+p,patreon members,stamps-2nd,6,,,
-2024-09-27,OUT,nanpa lawa p+p,patreon members,labels,3,,,
+2024-09-19,IN,invoice money,alifeee,null,,-121.31,,-90.24
+2024-09-20,IN,international stamps,alifeee,stamps-international,30,75,2.5,-165.24
+2024-09-27,OUT,nanpa lawa p+p,alifeee,nanpa-lawa,41,,,
+2024-09-27,OUT,nanpa lawa p+p,alifeee,envelopes,36,,,
+2024-09-27,OUT,nanpa lawa p+p,alifeee,stamps-international,29,,,
+2024-09-27,OUT,nanpa lawa p+p,alifeee,stamps-2nd,6,,,
+2024-09-27,OUT,nanpa lawa p+p,alifeee,labels,3,,,
 2024-09-27,OUT,postage for jan Nikola,alifeee,null,1,7.05,7.05,-172.29
-2024-10-11,IN,invoice money,alifeee,null,,-168.99,,-3.30
+2024-10-11,IN,invoice money,alifeee,null,,-168.99,,-3.3
 2024-10-12,OUT,stamps,alifeee,stamps-2nd,2,,,
 2024-10-21,OUT,issues for event,alifeee,nanpa-lawa,4,,,
 2024-10-28,IN,nanpa jan p+p,alifeee,nanpa-jan,68,47.49,0.95,-50.79
-2024-11-07,IN,stamps for nanpa jan,alifeee,stamps-international,33,92.40,2.80,-143.19
-2024-11-07,IN,stamps for nanpa jan,alifeee,stamps-2nd,8,6.80,0.85,-149.99
-2024-11-08,IN,envelopes,alifeee,envelopes,40,5.00,0.125,-154.99
-2024-11-09,OUT,nanpa jan p+p,patreon members,nanpa-jan,38,,,
-2024-11-09,OUT,nanpa jan p+p,patreon members,envelopes,38,,,
-2024-11-09,OUT,nanpa jan p+p,patreon members,stamps-international,32,,,
-2024-11-09,OUT,nanpa jan p+p,patreon members,stamps-2nd,6,,,
+2024-11-07,IN,stamps for nanpa jan,alifeee,stamps-international,33,92.4,2.8,-143.19
+2024-11-07,IN,stamps for nanpa jan,alifeee,stamps-2nd,8,6.8,0.85,-149.99
+2024-11-08,IN,envelopes,alifeee,envelopes,40,5,0.125,-154.99
+2024-11-09,OUT,nanpa jan p+p,alifeee,nanpa-jan,38,,,
+2024-11-09,OUT,nanpa jan p+p,alifeee,envelopes,38,,,
+2024-11-09,OUT,nanpa jan p+p,alifeee,stamps-international,32,,,
+2024-11-09,OUT,nanpa jan p+p,alifeee,stamps-2nd,6,,,
 2024-11-09,OUT,jan Eli learning club,alifeee,nanpa-jan,5,,,
 2024-11-09,OUT,jan Eli learning club,alifeee,nanpa-lawa,10,,,
 2024-11-09,OUT,jan Eli learning club,alifeee,nanpa-linja,5,,,
 2024-11-09,OUT,jan Eli learning club,alifeee,nanpa-lili,20,,,
 2024-11-09,OUT,jan Eli learning club,alifeee,stickers,6,,,
 2024-11-09,OUT,jan Eli learning club postage,alifeee,null,,5.15,,-160.14
-2024-11-09,OUT,extra international postage,alifeee,null,,1.80,,-161.94
+2024-11-09,OUT,extra international postage,alifeee,null,,1.8,,-161.94
 2024-12-09,IN,invoice money,alifeee,null,,-49.68,,-112.26
 2025-01-02,IN,invoice money,alifeee,null,,-108.73,,-3.53
 2025-01-20,IN,nanpa loje prints,alifeee,nanpa-loje,76,53.99,0.71,-57.52
-2025-01-23,IN,stamps for nanpa loje,alifeee,stamps-international,35,98.00,2.80,-155.52
-2025-01-23,IN,stamps for nanpa loje,alifeee,stamps-2nd,10,8.50,0.85,-164.02
+2025-01-23,IN,stamps for nanpa loje,alifeee,stamps-international,35,98,2.8,-155.52
+2025-01-23,IN,stamps for nanpa loje,alifeee,stamps-2nd,10,8.5,0.85,-164.02
 2025-01-26,OUT,address labels for loje,alifeee,labels,5,,,
-2025-01-27,OUT,nanpa loje p+p,patreon members,stamps-international,40,,,
-2025-01-27,OUT,nanpa loje p+p,patreon members,stamps-2nd,6,,,
-2025-01-27,OUT,nanpa loje p+p,patreon members,envelopes,46,,,
-2025-01-27,OUT,nanpa loje p+p,patreon members,nanpa-loje,46,,,
+2025-01-27,OUT,nanpa loje p+p,alifeee,stamps-international,40,,,
+2025-01-27,OUT,nanpa loje p+p,alifeee,stamps-2nd,6,,,
+2025-01-27,OUT,nanpa loje p+p,alifeee,envelopes,46,,,
+2025-01-27,OUT,nanpa loje p+p,alifeee,nanpa-loje,46,,,
 2025-01-27,OUT,issues for subpixelmaster,alifeee,nanpa-loje,3,,,
 2025-01-27,OUT,issues for subpixelmaster,alifeee,nanpa-lawa,10,,,
 2025-01-27,OUT,issues for subpixelmaster,alifeee,nanpa-linja,3,,,
 2025-01-27,OUT,issues for subpixelmaster,alifeee,nanpa-jan,3,,,
 2025-01-27,OUT,issues for subpixelmaster,alifeee,nanpa-lili,12,,,
 2025-01-27,OUT,issues for subpixelmaster,alifeee,stickers,6,,,
-2025-01-27,OUT,postage for subpixelmaster,alifeee,null,,25.30,,-189.32
-2025-01-31,IN,envelopes (approx - forgot),alifeee,envelopes,180,16.00,0.09,-205.32
+2025-01-27,OUT,postage for subpixelmaster,alifeee,null,,25.3,,-189.32
+2025-01-31,IN,envelopes (approx - forgot),alifeee,envelopes,180,16,0.09,-205.32
 2025-02-06,IN,invoice money,alifeee,null,,-185.24,,-20.08
 2025-03-06,OUT,issues for jan Aku,alifeee,nanpa-lili,20,,,
 2025-03-06,OUT,issues for jan Aku,alifeee,nanpa-lawa,5,,,
@@ -130,23 +130,23 @@ Date ordered, IN/OUT (of alifeee), Name, From/To, SKU, Quantity, Total Price (£
 2025-03-07,IN,postage from jan Aku,alifeee,null,,-26.04,,-21.69
 2025-03-08,IN,nanpa kala prints,alifeee,nanpa-kala,62,52.49,0.87,-74.18
 2025-03-10,IN,invoice money,alifeee,null,,-19.75,,-54.43
-2025-03-15,IN,stamps for nanpa kala,alifeee,stamps-international,42,117.60,2.80,-172.03
-2025-03-15,IN,stamps for nanpa kala,alifeee,stamps-2nd,8,6.80,0.85,-178.83
-2025-03-17,OUT,nanpa kala p+p,patreon members,envelopes,47,,,
-2025-03-17,OUT,nanpa kala p+p,patreon members,labels,3,,,
-2025-03-17,OUT,nanpa kala p+p,patreon members,nanpa-kala,47,,,
-2025-03-17,OUT,nanpa kala p+p,patreon members,stamps-international,42,,,
-2025-03-17,OUT,nanpa kala p+p,patreon members,stamps-2nd,5,,,
+2025-03-15,IN,stamps for nanpa kala,alifeee,stamps-international,42,117.6,2.8,-172.03
+2025-03-15,IN,stamps for nanpa kala,alifeee,stamps-2nd,8,6.8,0.85,-178.83
+2025-03-17,OUT,nanpa kala p+p,alifeee,envelopes,47,,,
+2025-03-17,OUT,nanpa kala p+p,alifeee,labels,3,,,
+2025-03-17,OUT,nanpa kala p+p,alifeee,nanpa-kala,47,,,
+2025-03-17,OUT,nanpa kala p+p,alifeee,stamps-international,42,,,
+2025-03-17,OUT,nanpa kala p+p,alifeee,stamps-2nd,5,,,
 2025-04-02,IN,invoice money,alifeee,null,,-174.97,,-3.86
-2025-07-06,IN,nanpa kokosila prints,alifeee,nanpa-kokosila,64,0,0.80,-3.86
-2025-07-06,IN,nanpa supa prints,alifeee,nanpa-supa,65,96.05,0.80,-99.91
-2025-07-07,IN,stamps for nanpa supa,alifeee,stamps-international,43,138.00,3.20,-237.91
-2025-07-14,OUT,nanpa supa p+p,patreon members,stamps-2nd,6,,,
-2025-07-14,OUT,nanpa supa p+p,patreon members,stamps-international,44,,,
-2025-07-14,OUT,nanpa supa p+p,patreon members,envelopes,50,,,
-2025-07-14,OUT,nanpa supa p+p,patreon members,labels,3,,,
-2025-07-14,OUT,nanpa supa p+p,patreon members,nanpa-supa,50,,,
-2025-07-14,OUT,nanpa supa p+p,patreon members,nanpa-kokosila,50,,,
+2025-07-06,IN,nanpa kokosila prints,alifeee,nanpa-kokosila,64,0,0.8,-3.86
+2025-07-06,IN,nanpa supa prints,alifeee,nanpa-supa,65,96.05,0.8,-99.91
+2025-07-07,IN,stamps for nanpa supa,alifeee,stamps-international,43,138,3.2,-237.91
+2025-07-14,OUT,nanpa supa p+p,alifeee,stamps-2nd,6,,,
+2025-07-14,OUT,nanpa supa p+p,alifeee,stamps-international,44,,,
+2025-07-14,OUT,nanpa supa p+p,alifeee,envelopes,50,,,
+2025-07-14,OUT,nanpa supa p+p,alifeee,labels,3,,,
+2025-07-14,OUT,nanpa supa p+p,alifeee,nanpa-supa,50,,,
+2025-07-14,OUT,nanpa supa p+p,alifeee,nanpa-kokosila,50,,,
 2025-07-14,OUT,nanpa supa p+p organisational fee,alifeee,null,,30,,-267.91
 2025-07-17,OUT,issues for tenpo kulupu Elopa,alifeee,nanpa-lili,76,,,
 2025-07-17,OUT,issues for tenpo kulupu Elopa,alifeee,nanpa-lawa,40,,,
@@ -156,11 +156,11 @@ Date ordered, IN/OUT (of alifeee), Name, From/To, SKU, Quantity, Total Price (£
 2025-07-17,OUT,issues for tenpo kulupu Elopa,alifeee,nanpa-supa,10,,,
 2025-07-17,OUT,issues for tenpo kulupu Elopa,alifeee,nanpa-loje,10,,,
 2025-07-18,OUT,postage for tenpo kulupu Elopa issues,alifeee,null,,17.94,,-285.85
-2025-08-04,IN,invoice money,alifeee,null,,-279.65,,-6.20
+2025-08-04,IN,invoice money,alifeee,null,,-279.65,,-6.2
 2025-09-19,IN,nanpa pilin prints,alifeee,nanpa-pilin,68,50.64,0.74,-56.84
 2025-09-27,IN,pilin p+p prep,alifeee,labels,99,22.99,0.23,-79.83
-2025-09-27,IN,pilin p+p prep,alifeee,envelopes,120,6.00,0.05,-85.83
-2025-09-27,IN,pilin p+p prep,alifeee,stamps-international,43,137.60,3.20,-223.43
+2025-09-27,IN,pilin p+p prep,alifeee,envelopes,120,6,0.05,-85.83
+2025-09-27,IN,pilin p+p prep,alifeee,stamps-international,43,137.6,3.2,-223.43
 2025-09-27,IN,pilin p+p prep,alifeee,stamps-2nd,8,6.96,0.87,-230.39
 2025-10-03,OUT,pilin p+p,alifeee,stamps-2nd,6,,,
 2025-10-03,OUT,pilin p+p,alifeee,stamps-international,43,,,
@@ -169,7 +169,7 @@ Date ordered, IN/OUT (of alifeee), Name, From/To, SKU, Quantity, Total Price (£
 2025-10-05,OUT,nanpa pilin p+p organisational fee,alifeee,null,,30,,-260.39
 2025-10-09,IN,invoice money,alifeee,null,,-255.31,,-5.08
 2025-11-15,IN,nanpa lon prints,alifeee,nanpa-lon,62,52.75,0.85,-57.83
-2025-11-24,IN,lon p+p prep,alifeee,stamps-international,43,146.20,3.40,-204.03
+2025-11-24,IN,lon p+p prep,alifeee,stamps-international,43,146.2,3.4,-204.03
 2025-11-24,IN,lon p+p prep,alifeee,stamps-2nd,8,6.96,0.87,-210.99
 2025-11-27,OUT,lon p+p,alifeee,labels,3,,,
 2025-11-27,OUT,lon p+p,alifeee,stamps-international,43,,,
@@ -179,8 +179,8 @@ Date ordered, IN/OUT (of alifeee), Name, From/To, SKU, Quantity, Total Price (£
 2025-11-27,OUT,lon p+p,alifeee,envelopes,49,,,
 2025-11-27,OUT,lon p+p organisational fee,alifeee,null,,30,,-240.99
 2025-12-02,IN,invoice money,alifeee,null,,-236.26,,-4.73
-2026-02-09,IN,nanpa len prints,alifeee,nanpa-len,60,53.75,0.90,-58.43
-2026-02-13,IN,len p+p prep,alifeee,stamps-international,44,149.60,3.40,-208.03
+2026-02-09,IN,nanpa len prints,alifeee,nanpa-len,60,53.75,0.9,-58.43
+2026-02-13,IN,len p+p prep,alifeee,stamps-international,44,149.6,3.4,-208.03
 2026-02-13,IN,len p+p prep,alifeee,stamps-2nd,6,5.22,0.87,-213.25
 2026-02-15,OUT,len p+p,alifeee,labels,4,,,
 2026-02-15,OUT,len p+p,alifeee,stamps-international,44,,,
