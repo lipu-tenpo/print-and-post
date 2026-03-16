@@ -5,7 +5,8 @@ nanpa-lawa: 1
 nanpa-len: 3
 nanpa-loje: 1
 nanpa-poki: 60
-stamps-2nd: 7
+stamps-2nd: 15
+stamps-international: 45
 stickers: 3
 
 
