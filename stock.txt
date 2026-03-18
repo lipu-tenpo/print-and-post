@@ -2,9 +2,9 @@ with alifeee:
 envelopes: 81
 labels: 84
 nanpa-lawa: 1
-nanpa-len: -49
+nanpa-len: 3
 nanpa-loje: 1
-nanpa-poki: 60
+nanpa-poki: 8
 stamps-2nd: 8
 stickers: 3
 
