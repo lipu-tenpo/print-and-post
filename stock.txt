@@ -7,7 +7,8 @@ nanpa-loje: 1
 nanpa-poki: 8
 nanpa-sitelen-nasa: 60
 nanpa-suwi: 60
-stamps-2nd: 8
+stamps-2nd: 16
+stamps-international: 43
 stickers: 3
 
 
