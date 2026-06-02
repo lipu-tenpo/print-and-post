@@ -239,3 +239,11 @@ Date ordered, IN/OUT (of alifeee), Name, From/To, SKU, Quantity, Total Price (£
 2026-05-22,IN,envelopes,alifeee,envelopes,150,9.00,0.06,-122.07
 2026-05-29,IN,poki p+p prep,alifeee,stamps-international,43,154.80,3.60,-276.87
 2026-05-29,IN,poki p+p prep,alifeee,stamps-2nd,8,7.28,0.91,-284.15
+2026-06-01,OUT,suwi p+p,alifeee,labels,4,,,
+2026-06-01,OUT,suwi p+p,alifeee,stamps-international,43,,,
+2026-06-01,OUT,suwi p+p,alifeee,stamps-2nd,9,,,
+2026-06-01,OUT,suwi p+p,alifeee,nanpa-sitelen-nasa,52,,,
+2026-06-01,OUT,suwi p+p,alifeee,nanpa-suwi,52,,,
+2026-06-01,OUT,suwi p+p,alifeee,envelopes,52,,,
+2026-06-01,OUT,suwi p+p organisational fee,alifeee,null,,30,,-314.15
+2026-06-02,IN,invoice money,alifeee,null,,278.60,,-35.55
