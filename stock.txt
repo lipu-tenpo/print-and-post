@@ -4,6 +4,7 @@ labels: 80
 nanpa-lawa: 1
 nanpa-len: 3
 nanpa-loje: 1
+nanpa-pakala: 70
 nanpa-poki: 8
 nanpa-sitelen-nasa: 8
 nanpa-suwi: 8
