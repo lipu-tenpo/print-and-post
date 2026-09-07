@@ -8,7 +8,8 @@ nanpa-pakala: 70
 nanpa-poki: 8
 nanpa-sitelen-nasa: 8
 nanpa-suwi: 8
-stamps-2nd: 7
+stamps-2nd: 15
+stamps-international: 50
 stickers: 3
 
 
