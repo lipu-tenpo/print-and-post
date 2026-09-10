@@ -1,15 +1,15 @@
 with alifeee:
-envelopes: 179
-labels: 80
+envelopes: 122
+labels: 76
 nanpa-lawa: 1
 nanpa-len: 3
 nanpa-loje: 1
-nanpa-pakala: 70
+nanpa-pakala: 42
 nanpa-poki: 8
 nanpa-sitelen-nasa: 8
 nanpa-suwi: 8
-stamps-2nd: 15
-stamps-international: 50
+stamps-2nd: 6
+stamps-international: 2
 stickers: 3
 
 
