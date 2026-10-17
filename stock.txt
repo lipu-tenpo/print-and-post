@@ -1,10 +1,10 @@
 with alifeee:
-envelopes: 122
+envelopes: 121
 labels: 76
 nanpa-lawa: 1
 nanpa-len: 3
 nanpa-loje: 1
-nanpa-pakala: 42
+nanpa-pakala: 40
 nanpa-poki: 8
 nanpa-sitelen-nasa: 8
 nanpa-suwi: 8
