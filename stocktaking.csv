@@ -256,3 +256,6 @@ Date ordered, IN/OUT (of alifeee), Name, From/To, SKU, Quantity, Total Price (£
 2026-09-10,OUT,pakala p+p,alifeee,nanpa-pakala,59,,,
 2026-09-10,OUT,pakala p+p,alifeee,envelopes,57,,,
 2026-09-10,OUT,pakala p+p organisational fee,alifeee,null,,30,,-321.58
+2026-10-17,OUT,pakala repost,alifeee,nanpa-pakala,2,,,
+2026-10-17,OUT,pakala repost,alifeee,envelopes,1,,,
+2026-10-17,OUT,pakala repost postage,alifeee,null,1,8.60,,-330.18
