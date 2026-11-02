@@ -9,8 +9,9 @@ nanpa-pimeja: 70
 nanpa-poki: 8
 nanpa-sitelen-nasa: 8
 nanpa-suwi: 8
+stamps-1st: 8
 stamps-2nd: 6
-stamps-international: 2
+stamps-international: 50
 stickers: 3
 
 
